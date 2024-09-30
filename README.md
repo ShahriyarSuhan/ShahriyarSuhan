@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahriyar Suhan</h1>
 <h3 align="center">A passionate React Native developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif"/>
 
 [![](https://visitcount.itsvg.in/api?id=ShahriyarSuhan&icon=7&color=3)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif"/>
 
 - 🔭 I’m currently working on **Sondhan**
 
@@ -17,6 +17,8 @@
 - 📫 How to reach me **shahriyarsuhan@gmail.com**
 
 - ⚡ Fun fact **I am a struggling Entrepreneur**
+
+
 
 ## 🌐 Socials:
 <p align="left">
