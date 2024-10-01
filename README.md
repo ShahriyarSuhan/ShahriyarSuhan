@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native, MERN**
 
-- 👨‍💻 All of my projects are available at [suhan.vercel.app](suhan.vercel.app)
+- 👨‍💻 All of my projects are available at [https://suhan.vercel.app](suhan.vercel.app)
 
 - 💬 Ask me about **React, Javascript, Wordpress, Firebase**
 
